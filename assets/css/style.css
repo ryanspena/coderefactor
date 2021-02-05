@@ -42,6 +42,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* link and paragraph styles */ 
 a {
     color: #ffffff;
     text-decoration: none;
@@ -51,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* styles for image section */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,22 +62,26 @@ p {
     background-position: center;
 }
 
+/* style for search engine optimzation and social media marketing */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* style for online reputation management */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* style for section containing search engine optimzation, online reputation management, and social media marketing */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* styles for articles in benefit element */ 
 .benefits {
     margin-right: 20px;
     padding: 20px;
